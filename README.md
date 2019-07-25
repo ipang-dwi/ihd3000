@@ -12,7 +12,7 @@ NB : DVMT pre-allocated 512MB
 
 <a href="https://github.com/ipang-dwi/ihd3000/releases">Release / Download Here</a>
 
-Just select which one of patch is suitable for you. I just recommend 1GB for 4GB RAM, 1.5GB for Minimal 6GB RAM and 2GB for minimal 8GB RAM. Install it with your favorite kext injector, I would prefer use Kext Utility.
+Just select which one of patch is suitable for you. I just recommend 1GB for minimal 4GB RAM, 1.5GB for Minimal 6GB RAM and 2GB for minimal 8GB RAM. Install it with your favorite kext injector, I would prefer use Kext Utility.
 
 For other DVMT, please feel free to reach me, coz I didn't have original file kext from High Sierra. Just share your original AppleIntelSNBGraphicsFB.kext to me. May I can patch it for you.
 
