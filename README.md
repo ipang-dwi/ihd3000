@@ -1,6 +1,8 @@
 # ihd3000
 Patch Intel HD 3000 for VRAM allocation on MacOSX - www.firstplato.com
 
+<img src="https://raw.githubusercontent.com/ipang-dwi/ihd3000/master/ok.png"/>
+
 Tested on Asus X45C - MacOS High Sierra 10.13.6 with custom :
 - 1GB VRAM
 - 1.5GB VRAM
